@@ -1,6 +1,6 @@
 # easynmap
-basic scans of nmap for kali linux
-# Scans:
+basic scans of nmap
+# Scans
     1-INTENSE SCAN
     2-INTENSE SCAN (PLUS UDP)
     3-INTENSE SCAN (ALL TCP PORTS)
@@ -8,5 +8,5 @@ basic scans of nmap for kali linux
     5-QUICK SCAN
     6-QUICK SCAN (PLUS)
     7-VERSION AND OS SCAN
-# Using:
+# Using
    open terminal where it was loaded and run 'python easynmap.py' and start
